@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=guesses\ results\ wrongLetters\ tries
+comment2.target=void\ displayGuesses(java.util.ArrayList,\ java.util.ArrayList,\ java.util.HashSet,\ int)
+comment3.params=n
+comment3.target=java.util.ArrayList\ loadWords(java.lang.String)
+numComments=4
