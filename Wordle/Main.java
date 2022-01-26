@@ -11,7 +11,6 @@ public class Main{
         Scanner sc = new Scanner(System.in);
         String ans = words.get((int)(Math.random()*words.size()));        
         System.out.println("V = letter in the correct place, X = letter not in the word, _ = letter in the word but not correct place");
-        System.out.println(ans);
         String guess = sc.nextLine();
         int tries = 0;
         while(true){
